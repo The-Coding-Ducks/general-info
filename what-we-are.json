@@ -1,7 +1,5 @@
 {
   "title": "What we are",
   "description": "\"The Coding Ducks\" is a group of engineers that loves to create new things.",
-  "thumbnail": {
-    "url": "https://raw.githubusercontent.com/The-Coding-Ducks/general-info/master/the-coding-ducks-icon.png"
-  }
+  "thumbnailUrl": "https://raw.githubusercontent.com/The-Coding-Ducks/general-info/master/the-coding-ducks-icon.png"
 }

@@ -1,9 +1,30 @@
 [
   {
     "customId": "OM-AGA",
-    "title": "Agamo - The Techy",
+    "title": "DolUnity - The Techy",
     "color": "#007AE0",
     "description": "Hi guys, I'm a Swiss IT apprentice and the techy in our team. I love to find new solutions, implement and polish them.",
     "thumbnailUrl": "member://208540232478490624"
+  },
+  {
+    "customId": "OM-MIG",
+    "title": "Mig - The Modeler",
+    "color": "#35E300",
+    "description": "TODO",
+    "thumbnailUrl": "member://488390468703617024"
+  },
+  {
+    "customId": "OM-SEN",
+    "title": "senfauge - The Structured",
+    "color": "#ffd401",
+    "description": "Hey, I am a german Developer and currently studying business informatics (information systems). My favourite task by far is doing user-interfaces.",
+    "thumbnailUrl": "member://255027343481896971"
+  },
+  {
+    "customId": "OM-YEE",
+    "title": "Yeetcat - The Handy-Man",
+    "color": "#00EBAE",
+    "description": "Hey I am a german 3D Artist I do Modelling, Texturing and Animating. And Im about to learn programming.",
+    "thumbnailUrl": "member://340172490632331296"
   }
 ]

@@ -8,7 +8,13 @@
     "fields": [
       {
         "name": "Skill Set",
-        "value": "- Discord Bot\n- Game Development\n- Web Development\n- Database"
+        "value": "- Discord Bot\n- Game Development\n- Web Development\n- Database",
+        "inline": true
+      },
+      {
+        "name": "The Duck to ask:",
+        "value": "- Errors in projects\n- Problems with Roboduck\n- Any kind of Suggestion",
+        "inline": true
       }
     ]
   },
@@ -17,20 +23,56 @@
     "title": "Mig - The Modeler",
     "color": "#35E300",
     "description": "TODO",
-    "thumbnailUrl": "member://488390468703617024"
+    "thumbnailUrl": "member://488390468703617024",
+    "fields": [
+      {
+        "name": "Skill Set",
+        "value": "- Blender",
+        "inline": true
+      },
+      {
+        "name": "The Duck to ask:",
+        "value": "- Problems with Models/Textures",
+        "inline": true
+      }
+    ]
   },
   {
     "customId": "OM-SEN",
     "title": "senfauge - The Structured",
     "color": "#ffd401",
     "description": "Hey, I am a german Developer and currently studying business informatics (information systems). My favourite task by far is doing user-interfaces.",
-    "thumbnailUrl": "member://255027343481896971"
+    "thumbnailUrl": "member://255027343481896971",
+    "fields": [
+      {
+        "name": "Skill Set",
+        "value": "- Game Development\n- Web Development\n- Database\n- Concepts",
+        "inline": true
+      },
+      {
+        "name": "The Duck to ask:",
+        "value": "- Errors in projects\n- Any kind of Suggestion",
+        "inline": true
+      }
+    ]
   },
   {
     "customId": "OM-YEE",
     "title": "Yeetcat - The Handy-Man",
     "color": "#00EBAE",
     "description": "Hey I am a german 3D Artist I do Modelling, Texturing and Animating. And Im about to learn programming.",
-    "thumbnailUrl": "member://340172490632331296"
+    "thumbnailUrl": "member://340172490632331296",
+    "fields": [
+      {
+        "name": "Skill Set",
+        "value": "- Blender\n- Basics Game Development\n",
+        "inline": true
+      },
+      {
+        "name": "The Duck to ask:",
+        "value": "- Problems with Models/Textures\n- Errors in projects\n",
+        "inline": true
+      }
+    ]
   }
 ]

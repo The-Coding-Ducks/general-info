@@ -4,6 +4,13 @@
     "title": "Rules",
     "color": "#ffd401",
     "description": "- Be nice to one another\n- Speak english\n- Don't spam\n- Don't post any NSFW content",
-    "thumbnailUrl": "https://raw.githubusercontent.com/The-Coding-Ducks/general-info/master/the-coding-ducks-icon.png"
+    "thumbnailUrl": "https://raw.githubusercontent.com/The-Coding-Ducks/general-info/master/the-coding-ducks-icon.png",
+    "components": [
+      {
+        "style": 1,
+        "label": "Accept",
+        "customId": "accept_rules"
+      }
+    ]
   }
 ]

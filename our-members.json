@@ -74,5 +74,24 @@
         "inline": true
       }
     ]
+  },
+  {
+    "customId": "OM-LUI",
+    "title": "Luiggi33 - The Random One",
+    "color": "#00AD04",
+    "description": "Hello, I am a German Student that does some small programming activity's in his free time, that he has way to much of. The current field of work is the Discord Bot known as \"The Roboduck\".",
+    "thumbnailUrl": "member://367690502432227329",
+    "fields": [
+      {
+        "name": "Skill Set",
+        "value": "- Discord Bot\n- Addon creation\n- Doing nothing\n",
+        "inline": true
+      },
+      {
+        "name": "The Duck to ask:",
+        "value": "- Problems with Roboduck\n- Suggestions for Roboduck\n",
+        "inline": true
+      }
+    ]
   }
 ]

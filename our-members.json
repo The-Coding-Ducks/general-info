@@ -13,7 +13,7 @@
       },
       {
         "name": "The Duck to ask:",
-        "value": "- Errors in projects\n- Problems with Roboduck\n- Any kind of Suggestion",
+        "value": "- Errors in projects\n- Problems with Roboduck\n- Any kind of Suggestion\n- Star Wars: Universe\n",
         "inline": true
       }
     ]
@@ -89,7 +89,7 @@
       },
       {
         "name": "The Duck to ask:",
-        "value": "- Problems with Roboduck\n- Suggestions for Roboduck\n",
+        "value": "- Problems with Roboduck\n- Suggestions for Roboduck\n- Star Wars: Universe\n",
         "inline": true
       }
     ]

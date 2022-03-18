@@ -1,24 +1,5 @@
 [
   {
-    "customId": "OM-AGA",
-    "title": "DolUnity - The Techy",
-    "color": "#007AE0",
-    "description": "Hi guys, I'm a Swiss IT apprentice and the techy in our team. I love to find new solutions, implement and polish them.",
-    "thumbnailUrl": "member://208540232478490624",
-    "fields": [
-      {
-        "name": "Skill Set",
-        "value": "- Discord Bot\n- Game Development\n- Web Development\n- Database",
-        "inline": true
-      },
-      {
-        "name": "The Duck to ask:",
-        "value": "- Errors in projects\n- Problems with Roboduck\n- Any kind of Suggestion\n- Star Wars: Universe\n",
-        "inline": true
-      }
-    ]
-  },
-  {
     "customId": "OM-MIG",
     "title": "Mig - The Modeler",
     "color": "#35E300",
